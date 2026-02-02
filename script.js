@@ -54,13 +54,13 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "No (Virus don't click)",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
+    "What if I asked really nicely?",
+    "I will bring Rice up chips you like",
+    "I will bring the Spanker",
+    "I think you want the choker",
+    "PLEASE Kitty",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
